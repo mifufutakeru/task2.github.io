@@ -151,4 +151,4 @@
     <div class="example">
       <input type="submit" value="登録">
     </div>  
-  </form>
+  
